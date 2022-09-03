@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mousam1995
-- 👀 I’m interested in Physics,Astronomy and Scientific Codinng and Data Analysis.
+- 👀 I’m interested in Physics,Astronomy and Scientific Coding and Data Analysis.
 - 🌱 I’m currently learning Astronomical Data Analysis Using Python.
 - 💞️ I’m looking to collaborate on Astronomical Data Analysis 
 - 📫 How to reach my email id - mousamphysics137@gmail.com
