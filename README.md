@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mousam1995
-- 👀 I’m interested in Physics , Astronomy and Mathematics.
-- 🌱 I’m currently learning how to properly talk to people cause I'm an introvert.
-- 💞️ I’m looking to collaborate on Anything regarding Exoplanets. 
+- 👀 I’m interested in Physics, Astronomy, and Data Analysis.
 - 📫 How to reach my email id - mm22ado@herts.ac.uk
 
 <!---
